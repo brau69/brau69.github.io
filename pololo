@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenido a la página de Braulio Soto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #8a2be2; /* Morado */
+            text-align: center;
+        }
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Bienvenido a la página de Braulio Soto</h1>
+    <p>Hola, mi nombre es Braulio Soto y esta es mi página personal dedicada especialmente al deporte del béisbol.</p>
+    
+    <h2>Sobre mí</h2>
+    <p>Soy un apasionado del béisbol desde mi infancia. Me encanta seguir las ligas, los equipos y los jugadores destacados. Siempre estoy al tanto de las últimas noticias y estadísticas.</p>
+    
+    <h2>Deportes</h2>
+    <p>En esta página encontrarás información relevante sobre el mundo del béisbol, incluyendo noticias, análisis de juegos, entrevistas a jugadores y mucho más. ¡No te lo pierdas!</p>
+    
+    <h2>¡Vamos a jugar!</h2>
+    <p>Siempre estoy listo para hablar de béisbol. Si tienes alguna pregunta, comentario o simplemente quieres compartir tu pasión por este deporte, ¡no dudes en contactarme!</p>
+    
+    <h2>Contacto</h2>
+    <p>Puedes contactarme por correo electrónico: <a href="mailto:braulio@example.com">braulio@example.com</a></p>
+</div>
+
+</body>
+</html>
